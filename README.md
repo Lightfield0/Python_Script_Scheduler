@@ -20,10 +20,6 @@ Son olarak, 'Başlat' butonuna tıklayarak otomatik program çalıştırmasını
 
 2. Konsol veya terminalden, indirilen klasörün içine gidin.
 
-3. Gerekli Python kütüphanelerini yüklemek için aşağıdaki komutu çalıştırın:
-
-pip install -r requirements.txt
-
-4. Son olarak, aşağıdaki komutla programı başlatın:
+3. Son olarak, aşağıdaki komutla programı başlatın:
 
 python script_scheduler.py
